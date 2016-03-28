@@ -92,7 +92,7 @@ Helpful R commands: `?`, `??`, `dim`, `nrow`, `ncol`, `length`, `names`,
 
     1.  What's the type of this data? What's the class?
     2.  How big is the data?
-    3.  What are the names of the columns? Briefly describe each column.
+    3.  Briefly describe five of the columns.
     4.  What do you think this data represents? Explain your reasoning.
     5.  Searching the web is a good way to get more information (but always be
         skeptical). Search the web to verify your guess about what the data
