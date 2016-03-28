@@ -19,11 +19,12 @@ For this part of the assignment, you'll create a short description of yourself
 and publish it to the web. The goal is to get comfortable with text editors,
 git, and the command line.
 
-1.  Get an text editor. Since we'll be using R a lot in this class, the best
-    choice is [RStudio]. Some other options are [Atom], [Notepad++][]
-    (Windows), and [TextWrangler][] (Mac OS X). Microsoft Word and other office
-    suites are designed to edit formatted text files, not plain text files, so
-    they are not a good substitute for a text editor.
+1.  Get a text editor. Since we'll be using R a lot in this class, the best
+    choice is [RStudio]. Some other simple options are [Atom],
+    [Notepad++][] (Windows), and [TextWrangler][] (Mac OS X). More advanced,
+    but less beginner friendly options include Emacs and Vim.  Microsoft Word and
+    other office suites are designed to edit formatted text files, not plain
+    text files, so they are not a good substitute for a text editor.
     
 [RStudio]: https://www.rstudio.com/products/rstudio/download/
 [Atom]: https://atom.io/
