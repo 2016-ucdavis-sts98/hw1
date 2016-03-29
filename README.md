@@ -20,16 +20,19 @@ and publish it to the web. The goal is to get comfortable with text editors,
 git, and the command line.
 
 1.  Get a text editor. Since we'll be using R a lot in this class, the best
-    choice is [RStudio]. Some other simple options are [Atom],
-    [Notepad++][] (Windows), and [TextWrangler][] (Mac OS X). More advanced,
-    but less beginner friendly options include Emacs and Vim.  Microsoft Word and
-    other office suites are designed to edit formatted text files, not plain
-    text files, so they are not a good substitute for a text editor.
+    choice is [RStudio]. Some other options are [Atom], [Notepad++][]
+    (Windows), and [TextWrangler][] (Mac OS X). If you want a challenge,
+    [Emacs] and [Neovim] are more advanced, but much less beginner-friendly.
+    Microsoft Word and other office suites are designed to edit formatted text
+    files, not plain text files, so they are not a good substitute for a text
+    editor.
     
 [RStudio]: https://www.rstudio.com/products/rstudio/download/
 [Atom]: https://atom.io/
 [Notepad++]: https://notepad-plus-plus.org/
 [TextWrangler]: http://www.barebones.com/products/textwrangler/
+[Emacs]: https://www.gnu.org/software/emacs/
+[Neovim]: https://neovim.io/
 
 2.  Open your text editor. Create a new text document and write a 5-6 sentence
     description of yourself, which should include:
@@ -107,9 +110,10 @@ Helpful R commands: `?`, `??`, `dim`, `nrow`, `ncol`, `length`, `names`,
     7.  Do you think this data set is accurate? In a paragraph, discuss how and
         why there might be inaccuracies or errors.
 
-Save your answers to a PDF file named `partB.pdf`, in your assignment
-repository. Add, commit, and push the file to GitHub following the same steps
-you used to publish Part A. Please do not commit any `.docx` or `.odt` files.
+Save your answers to a PDF file named `partB.pdf` and your code to a text file
+named `partB.R`, both in your assignment repository. Add, commit, and push the
+files to GitHub following the same steps you used to publish Part A. Please do
+not commit any `.docx` or `.odt` files.
 
 Microsoft Word, [Libre Office], [RStudio][RMarkdown], and others can export to
 PDF. 
